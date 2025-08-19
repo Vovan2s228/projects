@@ -1,3 +1,10 @@
+"""
+Character classifier
+usecase: python stv_classifier.py test.csv
+
+Please make sure to install all the prerequisite requirements first.
+"""
+
 import sys
 import csv
 import numpy as np
